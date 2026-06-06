@@ -49,7 +49,7 @@ export const createSettingsSlice: StateCreator<AdminStore, [], [], SettingsSlice
     allowViewingInstallationLogs: true,
     allowAcknowledgingInstallationFailure: true,
     allowViewingTransferProgress: true,
-    containerPrelude: '\x1b[1m\x1b[33mcontainer@calagopus~ \x1b[0m',
+    containerPrelude: '\x1b[1m\x1b[33mcontainer@dayzero~ \x1b[0m',
   },
   user: {
     maxServerGroupCount: 25,
