@@ -1,7 +1,7 @@
 {
-  "name": "Calagopus Panel",
-  "short_name": "Calagopus",
-  "description": "Calagopus Panel - Game Server Management",
+  "name": "DayZero Studios Panel",
+  "short_name": "DayZero",
+  "description": "DayZero Studios Panel - Game Server Management",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
