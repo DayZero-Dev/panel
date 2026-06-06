@@ -40,7 +40,7 @@ export const steps: OobeStep[] = [
     path: '',
     stepKey: 'register',
     label: 'Welcome',
-    description: 'Welcome to Calagopus',
+    description: 'Welcome to DayZero Studios',
     icon: faRocket,
     component: OobeWelcome,
     preAuth: true,

@@ -491,7 +491,7 @@ const baseTranslations = defineTranslations({
     pages: {
       oobe: {
         welcome: {
-          title: 'Welcome to Calagopus',
+          title: 'Welcome to DayZero Studios',
           subtitle: "Let's get your game server management system up and running!",
           wizardIntro: 'This setup wizard will guide you through:',
           steps: {
@@ -590,10 +590,10 @@ const baseTranslations = defineTranslations({
           title: 'Application Settings',
           form: {
             applicationName: 'Application Name',
-            applicationNamePlaceholder: 'Calagopus',
+            applicationNamePlaceholder: 'DayZero Studios',
             languagePlaceholder: 'Language',
             applicationUrl: 'Application URL',
-            applicationUrlPlaceholder: 'https://calagop.us',
+            applicationUrlPlaceholder: 'https://dayzero.cc',
             registration: 'Enable Registration',
             registrationDescription: 'Allow new users to register their own account.',
           },
@@ -642,7 +642,7 @@ const baseTranslations = defineTranslations({
         },
         finished: {
           title: 'Setup Complete!',
-          subtitle: 'Your Calagopus panel is ready to use',
+          subtitle: 'Your DayZero panel is ready to use',
           setupTitle: "What We've Set Up",
           items: {
             account: 'Administrator Account',
@@ -1358,7 +1358,7 @@ const baseTranslations = defineTranslations({
                   twoFactorRequirement: 'Two-Factor Authentication Requirement',
                   telemetryEnabled: 'Enable Telemetry',
                   telemetryEnabledDescription:
-                    'Allow Calagopus to collect limited and anonymous usage data to help improve the application.',
+                    'Allow DayZero Studios to collect limited and anonymous usage data to help improve the application.',
                   registrationEnabled: 'Enable Registration',
                 },
                 enum: {
@@ -1378,7 +1378,7 @@ const baseTranslations = defineTranslations({
                   disableTelemetry: {
                     title: 'Confirm Disabling Telemetry',
                     content:
-                      'Are you sure you want to disable telemetry? Telemetry helps us improve Calagopus by providing anonymous usage data. Disabling telemetry will prevent any data from being sent.',
+                      'Are you sure you want to disable telemetry? Telemetry helps us improve DayZero Studios by providing anonymous usage data. Disabling telemetry will prevent any data from being sent.',
                   },
                   enableRegistration: {
                     title: 'Confirm Enabling Registration',

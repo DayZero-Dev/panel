@@ -71,7 +71,7 @@ export default function OobeConfiguration({ onNext }: OobeComponentProps) {
       language: form.values.applicationLanguage,
       url: form.values.applicationUrl,
       twoFactorRequirement: 'none',
-      sessionCookie: 'calagopus_session',
+      sessionCookie: 'dayzero_session',
       sessionDurationSeconds: 7 * 24 * 3600,
       telemetryEnabled: true,
       registrationEnabled: form.values.applicationRegistration,
